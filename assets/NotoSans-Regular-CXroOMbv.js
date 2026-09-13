@@ -1,0 +1,1 @@
+var e=``+new URL(`NotoSans-Regular-Dpf_lrdO.ttf`,import.meta.url).href;export{e as default};

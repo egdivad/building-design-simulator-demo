@@ -1,0 +1,1 @@
+var e=``+new URL(`NotoSans-Bold-axMicgqH.ttf`,import.meta.url).href;export{e as default};
